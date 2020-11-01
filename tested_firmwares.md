@@ -1,15 +1,15 @@
-# Firmwares tested with this
+# Firmwares tested with this code
 
 - 3610 (NAM-1)
-	- v5.07
-	- v5.08
-	- v5.11
-	- v5.15
-	- v5.21
-	- v5.26
+    - v5.07
+    - v5.08
+    - v5.11
+    - v5.15
+    - v5.21
+    - v5.26
 - 2100 (NAM-2)
-	- v5.03
-	- v5.05
+    - v5.03
+    - v5.05
     - v5.11
     - v5.21
     - v5.41
