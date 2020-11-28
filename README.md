@@ -37,4 +37,4 @@ This code should work with all DCT3 firmwares, and has been tested on firmwares 
 
 For a full list of firmwares tested, refer to [tested_firmwares.md](tested_firmwares.md)
 
-More info can be found [on my website.](https://pjmor.com/)
+More info can be found [on my website.](https://pjmor.com/extract-nokia-dct3-system-graphics/)
